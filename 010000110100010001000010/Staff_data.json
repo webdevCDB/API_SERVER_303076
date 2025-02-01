@@ -2,7 +2,7 @@
   "staff": [
     {
       "timestamp": "17/01/2025 20:46:03",
-      "img": "https://drive.google.com/open?id=1YFaq6XC2H_HA2b5UXeV7DasJlWBSOWe8",
+      "avatarUrl": "https://drive.google.com/open?id=1YFaq6XC2H_HA2b5UXeV7DasJlWBSOWe8",
       "username": "Akanaken",
       "nickame": "Kevin | Ken",
       "position": "Moderator",
@@ -13,7 +13,7 @@
     },
     {
       "timestamp": "17/01/2025 20:46:03",
-      "img": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/CDB.gif",
+      "avatarUrl": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/CDB.gif",
       "username": "Aozone",
       "nickame": "Faiz | Zon",
       "position": "Staff",
@@ -24,7 +24,7 @@
     },
     {
       "timestamp": "17/01/2025 20:46:03",
-      "img": "https://github.com/AKANAKEN/Web_test/blob/main/Data/Foto/CDB.gif",
+      "avatarUrl": "https://github.com/AKANAKEN/Web_test/blob/main/Data/Foto/CDB.gif",
       "username": "Zan Nendatta",
       "nickame": "Zan | Kenkyu | Yuki",
       "position": "Moderator",
@@ -35,7 +35,7 @@
     },
     {
       "timestamp": "18/01/2025 20:46:03",
-      "img": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/Futaki.png",
+      "avatarUrl": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/Futaki.png",
       "username": "Futaki",
       "nickame": "Futaki | Fut | Suon",
       "position": "Owner",
@@ -46,7 +46,7 @@
     },
     {
       "timestamp": "19/01/2025 20:46:03",
-      "img": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/CDB.gif",
+      "avatarUrl": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/CDB.gif",
       "username": "Why D",
       "nickame": "Why D | Widi",
       "position": "Moderator",
@@ -57,7 +57,7 @@
     },
     {
       "timestamp": "20/01/2025 20:46:03",
-      "img": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/CDB.gif",
+      "avatarUrl": "https://webdevcdb.github.io/API_SERVER_303076/010000110100010001000010/Foto/CDB.gif",
       "username": "Mr. Azazel",
       "nickame": "azel | azazel | zel",
       "position": "Moderator",
