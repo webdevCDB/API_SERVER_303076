@@ -21,7 +21,9 @@
       "skill": "Jaringan Komputer",
       "country": "Indonesia",
       "status": "Active",
-      "id": 3
+      "id": 3,
+     "steam": "https://steamcommunity.com/id/CFaizStrike/",
+      "github": "https://github.com/AOZONE190"
     },
     {
       "timestamp": "17/01/2025 20:46:03",
@@ -43,7 +45,8 @@
       "skill": "Ilustrator / Gambar | Nyanyi | Voice Acting | ASMR Eat/Drink | Turu pagi Bangun Siang",
       "country": "Indonesia",
       "status": "Midle",
-      "id": 5
+      "id": 5,
+     "twitter": "https://x.com/suonuoluo"
     },
     {
       "timestamp": "19/01/2025 20:46:03",
@@ -54,7 +57,8 @@
       "skill": "Nyanyi | Main Gitar | Meroasting | Caster",
       "country": "Indonesia",
       "status": "Midle",
-      "id": 6
+      "id": 6,
+      "youtube": "https://www.youtube.com/channel/UC52BvZTE8MqizGn2mDHg1iQ"
     },
     {
       "timestamp": "20/01/2025 20:46:03",
