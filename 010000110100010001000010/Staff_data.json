@@ -8,7 +8,9 @@
       "skill": "Moderate Server",
       "country": "Indonesia",
       "status": "Active",
-      "id": 2
+      "id": 2,
+      "steam": "https://steamcommunity.com/id/Akanaken/",
+      "github": "https://github.com/AKANAKEN"
     },
     {
       "timestamp": "17/01/2025 20:46:03",
